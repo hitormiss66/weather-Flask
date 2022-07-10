@@ -1,0 +1,37 @@
+body{
+	background-color: #002db3;
+}
+.topnav{
+	margin-right: 300px;
+	margin-left: 300px;
+	background-color: #e9e9e9;
+	border-radius: 6px;
+	
+}
+.topnav a{
+	text-decoration: none;
+	padding: 14px 10px;
+	color: black;
+	display: inline-block;
+	font-size: 20px;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.maincont{
+	font-family: Verdana, sans-serif;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	font-size: 18px;
+	margin-right: 200px;
+	margin-left: 200px;
+	color: white;
+	text-align: center;
+}
+.forecast{
+	padding: 20px;
+}
+.submit{
+	display: none;
+}
